@@ -9,8 +9,8 @@
 
 <channel>
 	<title>dhanuka &#8211; DHANUKA FITTINGS</title>
-	<atom:link href="http://DhanukaFittings1.github.io/author/dhanuka/feed/" rel="self" type="application/rss+xml" />
-	<link>http://DhanukaFittings1.github.io</link>
+	<atom:link href="https://DhanukaFittings1.github.io/author/dhanuka/feed/" rel="self" type="application/rss+xml" />
+	<link>https://DhanukaFittings1.github.io</link>
 	<description>A Complete House Of Alluminium Fittings</description>
 	<lastBuildDate>Sat, 24 Nov 2018 09:29:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,25 +19,25 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>http://DhanukaFittings1.github.io/wp-content/uploads/2018/11/cropped-New-Microsoft-PowerPoint-Presentation-32x32.jpg</url>
+	<url>https://DhanukaFittings1.github.io/wp-content/uploads/2018/11/cropped-New-Microsoft-PowerPoint-Presentation-32x32.jpg</url>
 	<title>dhanuka &#8211; DHANUKA FITTINGS</title>
-	<link>http://DhanukaFittings1.github.io</link>
+	<link>https://DhanukaFittings1.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>EXIBITION-2017</title>
-		<link>http://DhanukaFittings1.github.io/exibition-2017/</link>
-		<comments>http://DhanukaFittings1.github.io/exibition-2017/#respond</comments>
+		<link>https://DhanukaFittings1.github.io/exibition-2017/</link>
+		<comments>https://DhanukaFittings1.github.io/exibition-2017/#respond</comments>
 		<pubDate>Sat, 24 Nov 2018 08:53:35 +0000</pubDate>
 		<dc:creator><![CDATA[dhanuka]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://DhanukaFittings1.github.io/?p=126</guid>
+		<guid isPermaLink="false">https://DhanukaFittings1.github.io/?p=126</guid>
 		<description><![CDATA[JUST A TRY]]></description>
 				<content:encoded><![CDATA[<p>JUST A TRY</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://DhanukaFittings1.github.io/exibition-2017/feed/</wfw:commentRss>
+			<wfw:commentRss>https://DhanukaFittings1.github.io/exibition-2017/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
